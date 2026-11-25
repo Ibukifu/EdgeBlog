@@ -39,7 +39,7 @@ not_found_handling = "none"
 [[d1_databases]]
 binding = "DB"
 database_name = "edge-blog"
-database_id = "fc3dc447-89a5-431b-9cc8-e299934fedab"
+database_id = "361fa9a1-8c9c-438b-98e2-8f74a91c73ba"
 
 # R2 — media library / image uploads
 [[r2_buckets]]
