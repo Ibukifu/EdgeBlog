@@ -39,7 +39,7 @@ crons = ["*/5 * * * *"]
 [[d1_databases]]
 binding = "DB"
 database_name = "edge-blog"
-database_id = "055686f4-1e23-4d09-9036-d511d5f02de4"
+database_id = "fc3dc447-89a5-431b-9cc8-e299934fedab"
 
 # R2 — media library / image uploads
 [[r2_buckets]]
