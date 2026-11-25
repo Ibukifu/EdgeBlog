@@ -8,6 +8,7 @@ compatibility_flags = ["nodejs_compat"]
 # 以及「定时自动写文」的 scheduled 定时器。
 main = "functions/worker.ts"
 
+
 # ---------------------------------------------------------------------------
 # Static assets
 # Vite 把前端产物输出到 dist/，通过 assets binding 提供。
